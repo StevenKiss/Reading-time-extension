@@ -1,3 +1,2 @@
-%md
-#Repo to practice extensions by creating one to add the reading time to Chrome Extension documentation articles
+# Repo to practice extensions by creating one to add the reading time to Chrome Extension documentation articles
 
